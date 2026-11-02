@@ -1,0 +1,1 @@
+Estudio Creativo IA — versión inicial. Abre index.html en un navegador. Es una interfaz adaptable; aún no genera imágenes, vídeo ni audio reales. Para ello se debe integrar un proveedor de IA y guardar sus claves de forma privada en el servidor. La aplicación original de Render no se modifica.
